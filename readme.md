@@ -45,5 +45,6 @@
 ## Todo
 
 - [ ] Responsive
+- [ ] Add LDAP auth system
 
   
