@@ -1,6 +1,3 @@
-
-There are spaces for every team, department or major project. Then employees can create, organize and share knowledge inside their relevant teams and keep work organized. There is a structured hierarchy and powerful search engine to find what you need quickly and easily. Apart from that, templates help creating documents without any hassle and there is PDF and Office Docs generation for the ease of sharing.
-
 ## Features
 
 * Create manage Wikis (group of knowledge pages)
