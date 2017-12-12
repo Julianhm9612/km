@@ -29,7 +29,7 @@ There are spaces for every team, department or major project. Then employees can
 
 - Clone the repository
   ```bash
-  git clone https://github.com/zeeshanu/opus.git
+  git clone https://github.com/sokollikaj18/km.git
   ```
 - Create `.env` using `.env.dist` and populate the relevant information
 - Install the dependencies
